@@ -30,6 +30,3 @@ print('Brand:', brand)
 print('Model:', model)
 print('Year:', year)
 print('Electric:', is_electric)
-
-
-
